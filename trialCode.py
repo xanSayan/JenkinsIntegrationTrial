@@ -6,3 +6,5 @@ c = a + b
 print(c)
 print("Hello Cloak!")
 print("Hello Marcus!")
+
+print("Welcome to Cloak!")
